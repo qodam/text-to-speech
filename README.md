@@ -20,7 +20,7 @@ This project converts text into MP3 audio files in multiple languages. It uses t
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/your-username/text-to-speech.git
+git clone https://github.com/qodam/text-to-speech.git
 cd text-to-speech
 ```
 
@@ -89,11 +89,10 @@ tts.save("spanish_audio.mp3")
 ```
 text-to-speech/
 │
-├── texttospeech.py      # Main script with text-to-speech function
+├── main.py      # Main script with text-to-speech function
 ├── requirements.txt      # Project dependencies
 ├── .gitignore           # Git ignore file
 ├── README.md            # Project documentation
-└── LICENSE              # License file (optional)
 ```
 
 ## Requirements
